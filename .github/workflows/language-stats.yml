@@ -1,0 +1,23 @@
+name: Update Language Statistics
+
+on:
+  schedule:
+    # Runs automatically every day at midnight
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Allows you to run it manually anytime
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Generate Language Card
+        uses: StefVuck/Github-Language-Stats@v1.2.0
+        with:
+          github_token: ${{ secrets.STATS_TOKEN }}
+          visualization_types: "horizontal-bar"
+          output_path: "languages-output"
