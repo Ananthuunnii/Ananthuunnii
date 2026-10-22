@@ -13,11 +13,11 @@
 </div>
 
 <br />
-###
+<!--###
 
-<p data-importer="text" align="left">My name is ... and I'm a ..., from ....</p>
+ <p data-importer="text" align="left">My name is ... and I'm a ..., from ....</p> 
 
-###
+###-->
 
 <h2 data-importer="text" align="left">About me</h2>
 
