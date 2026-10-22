@@ -7,7 +7,7 @@
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=Ananthuunnii&label=Profile+views&color=7aa2f7&style=for-the-badge" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Ananthuunnii-2&label=Profile+views&color=7aa2f7&style=for-the-badge&base=0" alt="profile views" />
 <a href="https://github.com/Ananthuunnii"><img src="https://img.shields.io/github/followers/Ananthuunnii?label=Followers&style=for-the-badge&logo=github&color=bb9af7&labelColor=1a1b27" alt="followers" /></a>
 
 </div>
