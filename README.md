@@ -1,5 +1,18 @@
-<h1 data-importer="text" align="left">Hey 👋 What's up?</h1>
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=220&section=header&text=Hey%20%F0%9F%91%8B%20What's%20up%3F&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Welcome%20to%20my%20corner%20of%20GitHub&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header banner" />
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Developer+%7C+Problem+Solver;Turning+coffee+into+code+%E2%98%95;Always+learning%2C+always+building+%F0%9F%9A%80" alt="typing animation" />
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=Ananthuunnii&label=Profile+views&color=7aa2f7&style=for-the-badge" alt="profile views" />
+<a href="https://github.com/Ananthuunnii"><img src="https://img.shields.io/github/followers/Ananthuunnii?label=Followers&style=for-the-badge&logo=github&color=bb9af7&labelColor=1a1b27" alt="followers" /></a>
+
+</div>
+
+<br />
 ###
 
 <p data-importer="text" align="left">My name is ... and I'm a ..., from ....</p>
