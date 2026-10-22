@@ -36,8 +36,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  /> -->
 </div>
 
-###
 📊 My Coding Stack
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananthuunnii&layout=compact&theme=dracula&langs_count=6" height="170" alt="top languages" /> <img src="https://github-readme-stats.vercel.app/api?username=Ananthuunnii&show_icons=true&theme=dracula&hide_border=false" height="170" alt="github stats" /> <br /> <img src="https://streak-stats.demolab.com?user=Ananthuunnii&theme=dracula&hide_border=false" height="150" alt="streak stats" /> <br /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ananthuunnii&theme=dracula&area=true&radius=16" alt="activity graph" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ananthuunnii&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" height="180" alt="github stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananthuunnii&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=6" height="180" alt="top languages" />
+
+<br /><br />
+
+<img src="https://streak-stats.demolab.com?user=Ananthuunnii&theme=tokyonight&hide_border=true&border_radius=12" height="170" alt="streak stats" />
+
+<br /><br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ananthuunnii&theme=tokyo-night&area=true&hide_border=true&radius=16" width="95%" alt="activity graph" /> </div> <br />
 
 ###
