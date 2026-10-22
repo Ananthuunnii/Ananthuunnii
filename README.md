@@ -32,14 +32,10 @@
 ###
 
 <div data-importer="techs" align="left">
-  <img src="./img/html5-original.svg" height="40" alt="html5 logo" />
+  <img src="https://raw.githubusercontent.com/Ananthuunnii/Ananthuunnii/main/img/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
-  <img src="./img/javascript-original.svg" height="40" alt="javascript logo" />
+  <img src="https://raw.githubusercontent.com/Ananthuunnii/Ananthuunnii/main/img/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
-  <!-- <img src="./img/typescript-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="./img/angularjs-original.svg" height="40" alt="javascript logo" />
-  <img width="12" /> -->
 </div>
 
 📊 My Coding Stack and Progress
