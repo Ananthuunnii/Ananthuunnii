@@ -13,44 +13,26 @@
 </div>
 
 <br />
-<!--###
 
- <p data-importer="text" align="left">My name is ... and I'm a ..., from ....</p> 
+<h2 align="left">About me</h2>
 
-###-->
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
-<h2 data-importer="text" align="left">About me</h2>
+<h2 align="left">I code with</h2>
 
-###
-
-<p data-importer="text" align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
-<h2 data-importer="text" align="left">I code with</h2>
-
-###
-
-<div data-importer="techs" align="left">
+<div align="left">
   <img src="https://raw.githubusercontent.com/Ananthuunnii/Ananthuunnii/main/img/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/Ananthuunnii/Ananthuunnii/main/img/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
 </div>
 
-📊 My Coding Stack and Progress
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ananthuunnii&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" height="180" alt="github stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananthuunnii&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=6" height="180" alt="top languages" />
+<h2 align="left">📊 My Coding Stack and Progress</h2>
 
-   <br /><br />
-   
-   <img src="https://streak-stats.demolab.com?user=Ananthuunnii&theme=tokyonight&hide_border=true&border_radius=12" height="170" alt="streak stats" />
-   
-   <br /><br />
-   
-   <picture>
-     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ananthuunnii/Ananthuunnii/output/github-snake-dark.svg" />
-     <img alt="snake animation" src="https://raw.githubusercontent.com/Ananthuunnii/Ananthuunnii/output/github-snake.svg" />
-   </picture> 
-</div> <br />
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Ananthuunnii&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" height="180" alt="github stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananthuunnii&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=6" height="180" alt="top languages" />
 
-###
+<br /><br />
+
+<img src="https://streak-stats.demolab.com?user=Ananthuunnii&theme=tokyonight&hide_border=true&border_radius=12" height="170" alt="streak stats" />
+</div>
