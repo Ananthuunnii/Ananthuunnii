@@ -16,7 +16,10 @@
 
 <h2 align="left">About me</h2>
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Building, breaking, and learning every day <br>📚 💻 Currently exploring Angular & ASP.NET Core <br>🎯 Goal: From “It works on my machine” to “It works everywhere” 🚀<br>🎲 🚀 Always curious, always improving</p>
+  
+ 
+🎯 Turning ideas into real-world projects  
 
 <h2 align="left">I code with</h2>
 
@@ -24,6 +27,8 @@
   <img src="https://raw.githubusercontent.com/Ananthuunnii/Ananthuunnii/main/img/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/Ananthuunnii/Ananthuunnii/main/img/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/Ananthuunnii/Ananthuunnii/main/img/typescript-original.svg" height="40" alt="javascript logo" />
 </div>
 
 <h2 align="left">📊 My Coding Stack and Progress</h2>
