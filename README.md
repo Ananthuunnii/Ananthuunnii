@@ -32,17 +32,14 @@
 
 <h2 align="left">📊 My Coding Stack and Progress</h2>
 
-<div align="center">
-    <span>
-        <img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="180" alt="github stats" />
-        <!-- <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="180" alt="most used languages" /> -->
-        <img src="./generated/top-languages.svg" height="190" alt="most used languages" />
-    </span>
-    <br /><br />
-    <img src="https://streak-stats.demolab.com?user=Ananthuunnii&theme=tokyonight&hide_border=true&border_radius=12" height="170" alt="streak stats" />
-    <br /><br />
-     <picture>
-        <br /><br />
-        <img src="./generated/contributions.svg" width="700" alt="daily contributions" />
-     </picture> 
-</div>
+<p align="center">
+  <!-- <img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="180" alt="github stats" /> -->
+  &nbsp;&nbsp;
+  <img src="./generated/top-languages.svg" height="180" alt="most used languages" />
+  &nbsp;&nbsp;
+  <img src="./generated/streak.svg" height="180" alt="streak stats" />
+</p>
+
+<p align="center">
+  <img src="./generated/contributions.svg" width="700" alt="daily contributions" />
+</p>
