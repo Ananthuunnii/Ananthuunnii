@@ -29,8 +29,9 @@
 <h2 align="left">📊 My Coding Stack and Progress</h2>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ananthuunnii&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" height="180" alt="github stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananthuunnii&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=6" height="180" alt="top languages" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ananthuunnii&theme=tokyonight" height="180" alt="github stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ananthuunnii&theme=tokyonight" height="180" alt="top languages" /> height="180" alt="top languages" />
 
 <br /><br />
 
