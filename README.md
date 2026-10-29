@@ -30,9 +30,10 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ananthuunnii&theme=tokyonight" height="180" alt="github stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ananthuunnii&theme=tokyonight" height="180" alt="top languages" /> height="180" alt="top languages" />
-
+<span>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ananthuunnii&theme=tokyonight" height="180" alt="github stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ananthuunnii&theme=tokyonight" height="180" alt="top languages" /> 
+</span>
 <br /><br />
 
 <img src="https://streak-stats.demolab.com?user=Ananthuunnii&theme=tokyonight&hide_border=true&border_radius=12" height="170" alt="streak stats" />
