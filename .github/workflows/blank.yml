@@ -14,9 +14,8 @@ jobs:
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
-
-      - uses: vn7n24fzkq/github-profile-summary-cards@v0.7.0
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}   # or a personal access token secret
         with:
           USERNAME: ${{ github.repository_owner }}
