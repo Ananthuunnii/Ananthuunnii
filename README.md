@@ -42,7 +42,7 @@
     <img src="https://streak-stats.demolab.com?user=Ananthuunnii&theme=tokyonight&hide_border=true&border_radius=12" height="170" alt="streak stats" />
     <br /><br />
      <picture>
-       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ananthuunnii/Ananthuunnii/output/github-snake-dark.svg" />
-       <img alt="snake animation" src="https://raw.githubusercontent.com/Ananthuunnii/Ananthuunnii/output/github-snake.svg" />
+        <br /><br />
+        <img src="./generated/contributions.svg" width="700" alt="daily contributions" />
      </picture> 
 </div>
