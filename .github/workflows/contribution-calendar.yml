@@ -1,4 +1,4 @@
-name: Update contribution calendar
+name: Update contribution calendar and streak
 
 on:
   schedule:
@@ -7,6 +7,7 @@ on:
     branches: [main]
     paths:
       - ".github/scripts/contrib-calendar.mjs"
+      - ".github/scripts/streak-card.mjs"
   workflow_dispatch:
 
 permissions:
@@ -32,10 +33,16 @@ jobs:
           # PROFILE_PAT, and use: GH_TOKEN: ${{ secrets.PROFILE_PAT }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate streak card
+        run: node .github/scripts/streak-card.mjs
+        env:
+          GH_USER: ${{ github.repository_owner }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add generated/contributions.svg
-          git diff --staged --quiet || git commit -m "chore: update contribution calendar"
+          git add generated/contributions.svg generated/streak.svg
+          git diff --staged --quiet || git commit -m "chore: update contribution calendar and streak"
           git push
