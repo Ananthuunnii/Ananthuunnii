@@ -35,9 +35,9 @@
 <p align="center">
   <!-- <img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="180" alt="github stats" /> -->
   &nbsp;&nbsp;
-  <img src="./generated/top-languages.svg" height="180" alt="most used languages" />
+  <img src="./generated/top-languages.svg" width="350" height="140" alt="most used languages" />
   &nbsp;&nbsp;
-  <img src="./generated/streak.svg" height="180" alt="streak stats" />
+  <img src="./generated/streak.svg" width="300" height="120" alt="streak stats" />
 </p>
 
 <p align="center">
