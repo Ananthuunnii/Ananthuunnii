@@ -16,7 +16,7 @@
 
 <h2 align="left">About me</h2>
 
-<p align="left">✨ Building, breaking, and learning every day <br>📚 💻 Currently exploring Angular & ASP.NET Core <br>🎯 Goal: From “It works on my machine” to “It works everywhere” 🚀<br>🎲 🚀 Always curious, always improving</p>
+<p align="left">✨ Building, breaking, and learning every day <br>📚 Currently exploring Angular & ASP.NET Core <br>🎯 Goal: From “It works on my machine” to “It works everywhere” 🚀<br>🎲 Always curious, always improving</p>
   
  
 🎯 Turning ideas into real-world projects  
