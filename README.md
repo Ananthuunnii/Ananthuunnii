@@ -16,9 +16,8 @@
 
 <h2 align="left">About me</h2>
 
-<p align="left">✨ Building, breaking, and learning every day <br>📚 Currently exploring Angular & ASP.NET Core <br>🎯 Goal: From “It works on my machine” to “It works everywhere” 🚀<br>🎲 Always curious, always improving</p>
-  
- 
+<p align="left">✨ Building, breaking, and learning every day <br>📚 Currently exploring Angular & ASP.NET Core <br>🎯 Goal: From “It works on my machine” to “It works everywhere” <br>🎲 Always curious, always improving</p>
+
 🎯 Turning ideas into real-world projects  
 
 <h2 align="left">I code with</h2>
@@ -34,18 +33,16 @@
 <h2 align="left">📊 My Coding Stack and Progress</h2>
 
 <div align="center">
-
-<span>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ananthuunnii&theme=tokyonight" height="180" alt="github stats" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ananthuunnii&theme=tokyonight" height="180" alt="top languages" /> 
-</span>
-<br /><br />
-
-<img src="https://streak-stats.demolab.com?user=Ananthuunnii&theme=tokyonight&hide_border=true&border_radius=12" height="170" alt="streak stats" />
-<br /><br />
-   
-   <picture>
-     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ananthuunnii/Ananthuunnii/output/github-snake-dark.svg" />
-     <img alt="snake animation" src="https://raw.githubusercontent.com/Ananthuunnii/Ananthuunnii/output/github-snake.svg" />
-   </picture> 
+    <span>
+        <img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="180" alt="github stats" />
+        <!-- <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="180" alt="most used languages" /> -->
+        <img src="./generated/top-languages.svg" height="190" alt="most used languages" />
+    </span>
+    <br /><br />
+    <img src="https://streak-stats.demolab.com?user=Ananthuunnii&theme=tokyonight&hide_border=true&border_radius=12" height="170" alt="streak stats" />
+    <br /><br />
+     <picture>
+       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ananthuunnii/Ananthuunnii/output/github-snake-dark.svg" />
+       <img alt="snake animation" src="https://raw.githubusercontent.com/Ananthuunnii/Ananthuunnii/output/github-snake.svg" />
+     </picture> 
 </div>
