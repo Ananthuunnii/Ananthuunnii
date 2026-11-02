@@ -3,18 +3,18 @@
   <text x="25" y="38" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600" fill="#70a5fd">Most Used Languages</text>
   <text x="25" y="89" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c0caf5">JavaScript</text>
   <rect x="130" y="78" width="280" height="14" rx="7" fill="#2a2c3d"/>
-  <rect x="130" y="78" width="209.4" height="14" rx="7" fill="#f1e05a"/>
-  <text x="424" y="89" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c0caf5">74.8%</text>
-  <text x="25" y="123" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c0caf5">HTML</text>
+  <rect x="130" y="78" width="126.8" height="14" rx="7" fill="#f1e05a"/>
+  <text x="424" y="89" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c0caf5">45.3%</text>
+  <text x="25" y="123" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c0caf5">TypeScript</text>
   <rect x="130" y="112" width="280" height="14" rx="7" fill="#2a2c3d"/>
-  <rect x="130" y="112" width="51.0" height="14" rx="7" fill="#e34c26"/>
-  <text x="424" y="123" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c0caf5">18.2%</text>
-  <text x="25" y="157" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c0caf5">TypeScript</text>
+  <rect x="130" y="112" width="113.9" height="14" rx="7" fill="#3178c6"/>
+  <text x="424" y="123" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c0caf5">40.7%</text>
+  <text x="25" y="157" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c0caf5">HTML</text>
   <rect x="130" y="146" width="280" height="14" rx="7" fill="#2a2c3d"/>
-  <rect x="130" y="146" width="12.7" height="14" rx="7" fill="#3178c6"/>
-  <text x="424" y="157" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c0caf5">4.5%</text>
+  <rect x="130" y="146" width="35.1" height="14" rx="7" fill="#e34c26"/>
+  <text x="424" y="157" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c0caf5">12.5%</text>
   <text x="25" y="191" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c0caf5">TSQL</text>
   <rect x="130" y="180" width="280" height="14" rx="7" fill="#2a2c3d"/>
-  <rect x="130" y="180" width="6.8" height="14" rx="7" fill="#e38c00"/>
-  <text x="424" y="191" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c0caf5">2.4%</text>
+  <rect x="130" y="180" width="4.1" height="14" rx="7" fill="#e38c00"/>
+  <text x="424" y="191" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#c0caf5">1.5%</text>
 </svg>
